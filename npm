@@ -1,18 +1,18 @@
-
-
 {
-	"name": "fcc-learn-npm-package-json",
-  	"author": "vitor",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/vitor-alves2024/package.json/blob/main/npm"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitor-alves2024/package.json/blob/main/npm"
+  }
 }
