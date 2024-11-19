@@ -1,3 +1,4 @@
+npm init -y
 {
   "name": "fcc-learn-npm-package-json",
   "author": "foobar",
